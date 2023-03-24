@@ -1,4 +1,5 @@
-<p-accordionTab id="0" class="myPanel" data-cy="panel0" data-tag="panel0" data-tab="0">
+<p-accordion [activeIndex]="index" (onOpen)="onTabOpen($event)" (onClose)="onTabClose($event)" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
+  <p-accordionTab id="0" class="myPanel" data-cy="panel0" data-tag="panel0" data-tab="0">
     <ng-template pTemplate="header">
         <h2>Le service Go-Rénove</h2>
     </ng-template>
@@ -1131,4 +1132,5 @@
         </p>
         <p><i>Mis à jour le 27/02/2023</i></p>
     </div>
-</p-accordionTab>
+  </p-accordionTab>
+</p-accordion>
