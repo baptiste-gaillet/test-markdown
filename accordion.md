@@ -5,7 +5,6 @@
     <h1>CSS + HTML only Accordion Element</h1>
     <ul>
       <li>
-        <input type="checkbox" checked>
         <i></i>
         <h2>Languages Used</h2>
         <p>This page was written in HTML and CSS.</p>
