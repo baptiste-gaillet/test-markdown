@@ -6,15 +6,15 @@
 		<!-- données de test -->
 		<h4 class="fr-h4">Contenu </h4>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.
+			Premier P balise html
 		</p>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.
+			Deuxieme P balise HTML
 		</p>
 		<ul>
-			<li>list item</li>
-			<li>list item</li>
-			<li>list item</li>
+			<li>list 1</li>
+			<li>list 2</li>
+			<li>list 3</li>
 		</ul>
 	</div>
 </section>
