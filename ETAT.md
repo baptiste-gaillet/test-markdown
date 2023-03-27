@@ -1,4 +1,20 @@
-			<button class="accordion">Section 1</button>
-			<div class="panel">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-			</div>
+<section class="fr-accordion">
+	<h3 class="fr-accordion__title">
+		<button class="fr-accordion__btn" aria-expanded="false" aria-controls="accordion-106">Intitulé accordéon</button>
+	</h3>
+	<div class="fr-collapse" id="accordion-106">
+		<!-- données de test -->
+		<h4 class="fr-h4">Contenu </h4>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.
+		</p>
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing, <a href="test" target="_blank">link test</a> incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.
+		</p>
+		<ul>
+			<li>list item</li>
+			<li>list item</li>
+			<li>list item</li>
+		</ul>
+	</div>
+</section>
