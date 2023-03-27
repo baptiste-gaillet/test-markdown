@@ -1,8 +1,10 @@
 <div class="faq-markdown">
     <h1>CSS + HTML only Accordion Element</h1>
+    
+    <p><span class="note">### note</span></p>
+    
     <ul>
       <li>
-        <input type="checkbox" checked>
           
         ## input1b
         
@@ -13,7 +15,6 @@
         <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
       </li>
       <li>
-        <input type="checkbox" checked>
           
         ## input2b
           
@@ -22,7 +23,6 @@
         <p>Using the sibling and checked selectors, we can determine the styling of sibling elements based on the checked state of the checkbox input element. One use, as demonstrated here, is an entirely CSS and HTML accordion element. Media queries are used to make the element responsive to different screen sizes.</p>
       </li>
       <li>
-        <input type="checkbox" checked>
           
         ## input3b
           
