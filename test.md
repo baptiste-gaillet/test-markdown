@@ -1,7 +1,23 @@
-<section class="fr-accordion">
-  <h3 id="h3">Mon H3 ID</h3>
-	<h4 id='h4' class="h4">Mon h4</h4>
-	<p>
-			Paragraphe P html Lorem ipsum.
-	</p>
-</section>
+<div class="faq-markdown">
+    <h1>CSS + HTML only Accordion Element</h1>
+    <ul>
+      <li>
+          <input type="checkbox" checked>
+        <i></i>
+        <h2>Languages Used</h2>
+        <p>This page was written in HTML and CSS.</p>
+      </li>
+      <li>
+          <input type="checkbox" checked>
+        <i></i>
+        <h2>How it Works</h2>
+        <p>Using the sibling and checked selectors.</p>
+      </li>
+      <li>
+          <input type="checkbox" checked>
+         <i></i>
+        <h2>Points of Interest</h2>
+        <p>By making the open state default.</p>
+      </li>
+    </ul>
+</div>
