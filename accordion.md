@@ -1,9 +1,12 @@
 ## MyHeader Markdown 2
 
-> ## Mon titre
-> Mon paragraphe <br />
-> *Ma date*
+> ## Mon titre 1
+> Mon paragraphe 1 <br />
+> *Ma date 1*
 
+> ## Mon titre 2
+> Mon paragraphe 2 <br />
+> *Ma date 2*
 
 <div class="faq-markdown">
     <h1>CSS + HTML only Accordion Element</h1>
