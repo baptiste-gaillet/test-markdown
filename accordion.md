@@ -2,7 +2,7 @@
 
 > ## Mon titre
 > Mon paragraphe <br />
-> <em>Ma date</em>
+> *Ma date*
 
 
 <div class="faq-markdown">
