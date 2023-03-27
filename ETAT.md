@@ -4,7 +4,7 @@
 	</h3>
 	<div class="fr-collapse" id="accordion-106">
 		<!-- données de test -->
-		<h4 id='h4' class="fr-h4">Contenu </h4>
+		<h4 id='h4' class="fr-h4">Contenu ID h4</h4>
 		<p>
 			Premier P balise html
 		</p>
