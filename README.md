@@ -1,6 +1,4 @@
-# Questions fréquemment posées v2
-
-[Heading IDs](#heading-ids)
+# Questions fréquemment posées
 
 ---
 ##### 0
