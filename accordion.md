@@ -1,5 +1,3 @@
-# Questions / Réponses
-
 > ## Mon titre 1
 > Mon paragraphe 1 <br />
 > *Ma date 1*
