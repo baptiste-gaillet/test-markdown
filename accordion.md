@@ -1,17 +1,11 @@
 ## MyHeader
 
-<div class="faq-markdown">
-    <md-block>
-        # mySecond Heading
-        Some *embedded* Markdown which `md-block` can convert for you!
-    </md-block>
-</div>
 
 <div class="faq-markdown">
     <h1>CSS + HTML only Accordion Element</h1>
     <ul>
       <li>
-          <span>
+        <span>test</span>
         <i></i>
         <h2>Languages Used</h2>
         <p>This page was written in HTML and CSS.</p>
