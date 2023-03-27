@@ -1,12 +1,12 @@
-# Questions fréquemment posées
+# Questions fréquemment posées v2
 
-# Heading
+[Heading IDs](#heading-ids)
 
 ---
 ##### 0
 ## Le service Go-Rénove
 
-### A quoi sert Go-Rénove ?
+### A quoi sert Go-Rénove ? {#aquoi}
 Le service Go-Rénove a été conçu pour donner aux bailleurs sociaux une vue d'ensemble de leur parc de bâtiment et de sa performance énergétique. Ce service permet aussi de cibler certains bâtiments d'intérêt et de consulter une fiche d'information détaillée des caractéristiques de ce bâtiment
 
 ### Qui porte le service Go-Rénove ?
