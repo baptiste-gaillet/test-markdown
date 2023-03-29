@@ -1,4 +1,4 @@
-> ## Le service Go-Rénove
+[> ## Le service Go-Rénove
 > **{0-quoi}A quoi sert Go-Rénove ?**
 > Le service Go-Rénove a été conçu pour donner aux bailleurs sociaux une vue d'ensemble de leur parc de bâtiment et de sa performance énergétique.<br />
 > Ce service permet aussi de cibler certains bâtiments d'intérêt et de consulter une fiche d'information détaillée des caractéristiques de ce bâtiment<br />
@@ -52,3 +52,4 @@
 > **{1-bnbid} Est-il possible d’utiliser l’identifiant de bâtiment Go-Rénove pour faire le lien avec notre référentiel privé ? [🔗](/faq#bnbid)**
 > Il est actuellement préférable d’utiliser l’adresse postale pour faire la connexion avec les données Go-Rénove.<br />
 > *Mis à jour le 27/02/2023*<br />
+](https://gitlab.com/api/v4/projects/44595413/repository/files/README.md/raw?ref=main)
